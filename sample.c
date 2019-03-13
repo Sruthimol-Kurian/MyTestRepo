@@ -3,4 +3,5 @@
 
 public static void main(){
 	printf("Hello World\n");
+	printf("Hai all");
 }
