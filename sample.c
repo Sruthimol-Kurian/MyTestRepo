@@ -4,5 +4,7 @@
 public static void main(){
 	int a;
 	printf("Hello World\n");
-	printf("Hai all");
+	printf("Hai all\n");
+	printf("Enter the value\n");
+	scanf("%d",&a);
 }
